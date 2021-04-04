@@ -1,0 +1,95 @@
+
+		body{
+			background: white;
+
+		}
+		div#header{
+			background: #334d4d;
+			height: 150px;
+		}
+		blockquote{
+			text-align: center;
+			text-shadow:  0 0 3px #FF0000, 0 0 5px #0000FF;
+			font-size: 75px;
+			font-weight: bold;
+			
+		}
+			.menu{
+
+	background:black;
+	padding: 6px 0 6px 40px;
+
+}
+
+
+		.menu a{
+
+	color:white;	
+	text-decoration: none;
+	font-size:14px;
+	font-family: "Arial Narrow", "Myriad pro";
+}
+form{
+	color: white;
+}
+
+	.main{
+
+	margin: 0 0 0 180px;
+	padding: 35px 40px 0;
+	color: #444444;
+	font-family: "Georgia";
+	font-size: 13px;
+	line-height: 18px;
+	text-align: justify;
+
+
+}
+
+	#home-image img{
+
+
+	width: 75%;
+}
+
+
+		
+
+		footer{
+
+	padding: 6px 40px 6px 40px;
+	background:#d6d6d6;
+	font-family: "Comic sans";
+	color: #444444;
+	font-size: 17px;
+	text-align: right;
+}
+
+footer a{
+	text-decoration: none;
+	color:#262626;
+}
+
+/**About page styles**//
+#about-page  #home-image img{
+
+
+	width: 70%;
+	float: left;
+	margin-bottom: 20px;
+
+}
+
+#about-page  #profile-info{
+
+	float: right;
+	width: 20%;
+	margin: 5px;
+}
+
+
+#about-page .description{
+
+clear: both;
+}
+
